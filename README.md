@@ -15,7 +15,7 @@ Distributed and Automatic Mixed Precision support relies on NVIDIA's [Apex] and 
 Visit our [link](https://drive.google.com/drive/folders/187kcirx-gwQLg4nfzovhX2FNrMTz9njc) for audio samples using our Tacotron 2 and 
 HiFi-GAN models.
 
-![Spectrogram of synthesized speech](1.png)
+![Spectrogram of synthesized speech](1.jpg)
 
 
 ## Pre-requisites
