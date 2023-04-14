@@ -12,7 +12,7 @@ and uses the [Turkish TTS dataset](https://drive.google.com/file/d/1YMwTLczUs9bs
 
 Distributed and Automatic Mixed Precision support relies on NVIDIA's [Apex] and [AMP].
 
-Visit our [link] (https://drive.google.com/drive/folders/187kcirx-gwQLg4nfzovhX2FNrMTz9njc) for audio samples using our published [Tacotron 2] and 
+Visit our [link](https://drive.google.com/drive/folders/187kcirx-gwQLg4nfzovhX2FNrMTz9njc) for audio samples using our published [Tacotron 2] and 
 [HiFi-GAN] models.
 
 ![Alignment, Predicted Mel Spectrogram, Target Mel Spectrogram](tensorboard.png)
