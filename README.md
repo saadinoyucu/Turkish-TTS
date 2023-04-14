@@ -15,7 +15,7 @@ Distributed and Automatic Mixed Precision support relies on NVIDIA's [Apex] and 
 Visit our [link](https://drive.google.com/drive/folders/187kcirx-gwQLg4nfzovhX2FNrMTz9njc) for audio samples using our published [Tacotron 2] and 
 [HiFi-GAN] models.
 
-![Alignment, Predicted Mel Spectrogram, Target Mel Spectrogram](tensorboard.png)
+![Spectrogram of synthesized speech](1.png)
 
 
 ## Pre-requisites
@@ -39,8 +39,8 @@ Symbols are set for Turkish.
 ## Numbers
  Numbers are set for Turkish.
  
-##Clenaners
-Clenaner sare set for Turkish. (deepzeka_cleaners)
+## Cleaners
+Cleaner sare set for Turkish. (deepzeka_cleaners)
 
 ## Training
 1. `python train.py --output_directory=outdir --log_directory=logdir`
