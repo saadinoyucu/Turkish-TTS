@@ -36,6 +36,9 @@ HiFi-GAN models.
 ## Symbols
 Symbols are set for Turkish.
 
+## Turkish Abbreviations
+Turkish Abbreviations [Txt File](abbreviations.txt)
+
 ## Numbers
  Numbers are set for Turkish.
  
