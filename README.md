@@ -4,7 +4,7 @@ Turkish Speech Synthesis Project based on Tacotron2
 
 # Tacotron 2 (without WaveNET and HiFi-GAN)
 
-Tuskish implementation of [A Novel End-to-End Turkish Text-to-Speech (TTS) System via Deep Learning]
+Turkish implementation code of [A Novel End-to-End Turkish Text-to-Speech (TTS) System via Deep Learning]
 (MDPI, electronics). 
 
 This implementation includes **distributed** and **automatic mixed precision** support
