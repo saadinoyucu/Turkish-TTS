@@ -53,8 +53,8 @@ Cleaner sare set for Turkish. (deepzeka_cleaners)
 Training using a pre-trained model can lead to faster convergence  
 By default, the dataset dependent text embedding layers are [ignored]
 
-1. Download our published [Tacotron 2] model
-2. `python train.py --output_directory=outdir --log_directory=logdir -c tacotron2_statedict.pt --warm_start`
+
+1. `python train.py --output_directory=outdir --log_directory=logdir -c tacotron2_statedict.pt --warm_start`
 
 ## Multi-GPU (distributed) and Automatic Mixed Precision Training
 1. `python -m multiproc train.py --output_directory=outdir --log_directory=logdir --hparams=distributed_run=True,fp16_run=True`
@@ -62,6 +62,10 @@ By default, the dataset dependent text embedding layers are [ignored]
 
 N.b.  When performing Mel-Spectrogram to Audio synthesis, make sure Tacotron 2
 and the Mel decoder were trained on the same mel-spectrogram representation. 
+
+
+## Tacotron2 and HiFi-GAN Inference Notebook (now with super-resolution!)
+Tacotron2 and HiFi-GAN Inference [Notebook](https://colab.research.google.com/drive/1dxVcqe4m-AU8NAA1I1MW1N9HYBO_oii_?usp=sharing)
 
 
 ## Acknowledgements
