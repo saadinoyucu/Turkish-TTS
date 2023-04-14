@@ -1,0 +1,393 @@
+AB,A BE
+ABD,A BE DE
+ABS,A BE SE
+ADSL,EY Dİ ES EL
+AET,A E TE
+AEÜ,A E Ü
+AGM,A GE ME
+AID,EYİT
+AIDS,EYİTS
+AİHM,A İ HE ME
+AK,A KE
+AKM,A KE ME
+APEC,EYPEK
+APF,A PE FE
+APÖ,A PE Ö
+APS,A PE SE
+Apt.,Apartman
+ASİGM,A SE İ GE ME
+AST,A SE TE
+AŞ,A ŞE
+ATK,A TE KE
+AVM,A VE ME
+AYM,A YE ME
+BBC,Bİ Bİ Sİ
+BDDK,BE DE DE KA
+BMT,BE ME TE
+BTF,BE TE FE
+BTK,BE TE KA
+BYEGM,BE YE E GE ME
+CAO,Kİ EY O
+CERN,SÖRN
+CIA,Sİ AY EY 
+CIP,SİEYPİ
+CMK,CE ME KA
+CMUK,CE ME U KA
+CSO,CE SE O
+CTC,SİTİSİ
+CTE,CE TE E
+ÇGM,ÇE GE ME
+ÇSGB,ÇE SE GE BE
+ÇYGM,ÇE YE GE ME
+DAGM,DE A GE ME
+DDB,DE DE BE
+DDY,DE DE YE
+DESİYAB,DE E SİYAB
+DFİF,DE FE İ FE
+DGK,DE GE KE
+DGM,DE GE ME
+DGÖ,DE GE Ö
+DGS,DE GE SE
+DHMİ,DE HE ME İ
+DİB,DE İ BE
+DİE,DE İ E
+DKK,DE KA KA
+DKMP,DE KA ME PE
+DLH,DE LE HE
+DMİ,DE ME İ
+DMO,DE ME O
+DNA,DE NE A
+DPB,DE PE BE
+DPT,DE PE TE
+DPÜ,DE PE Ü
+Dr.,Doktor
+DSİ,DE SE İ
+DSO,DE SE O
+DSÖ,DE SE Ö
+DTCF,DE TE CE FE
+DTÖ,DE TE Ö
+DVD,Dİ Vİ Dİ
+EAC,E A CE
+EADB,E A DE BE
+EAEC ,E A E CE
+EBK,E BE KA
+EC,E CE
+ECB,E CE BE
+EEC,E E CE
+EEG,E E GE
+EFT,E FE TE
+EGM,E GE ME
+EKG,E KE GE
+EMG,E ME GE
+EMK,E ME KE
+EPDK,E PE DE KA
+ESF,E SE FE
+ESGM,E SE GE ME
+ETKB,E TE KA BE
+EU,EY U
+EURATOM,YUROTOM
+EXİMBANK ,EKSİMBANK
+FBI,EF Bİ AY
+fel.,felsefe
+FIBA,FİBA
+FIFA,FİFA
+GBT,GE BE TE
+GSGM,GE SE GE ME
+GSM,Cİ ES EM
+GTÖ,GE TE Ö
+HABITAT,habitat
+HDD,HE DE DE
+HGK,HE GE KA
+HGM,HE GE ME
+HIV,HİV
+HKK,HE KA KA
+HM,HE ME
+HMUK,HE ME U KA
+IAAF,İ EY EY EF
+IAEA,İ EY E EY
+IATA,İ EY Tİ EY
+IDB,İ Dİ Bİ
+ILO,İLO
+IMF,İMEFE
+INTERPOL,interpol
+ISBN,İ ES Bİ EN
+ISMN,İ ES EM EN
+ISO,İSO
+ISSN,İ ES ES EN
+ITC,İ ET EK
+ITO,ito
+İDT,idete
+İEGM,i e ge me
+İETT,i e tete
+İGB,i ge be
+İGM,i ge me
+İHB,i he be
+İKB,i ka be
+İKÖ,i ka ö
+İKV,i ka ve
+İMKB,i me ka be
+İSG,i se ge
+İSKİ,iski
+İSKYF,i se ka ye fe
+İTB,i te be
+İTG,i te ge
+İYTE,i ye te e
+İZTB,i ze te be
+JGK,jegeka
+KBB,kabebe
+KDV,kadeve
+KEGM,ka e ge me
+KGB,ka ge be
+KGM,ka ge me
+KHK,ka he ka
+KKGM,ka ka ge me
+KKK,ka ka ka
+KKTC,ka ka te ce
+km,kilometre
+KOİ,ka o i
+KPDS,kapedese
+KPSS,kapesese
+KSDB,kasedebe
+KSGM,kasegeme
+KTKB,katekabe
+KUGM,ka u ge me
+KYGM,ka ye ge me
+LPG,le pe ge
+Ltd.,le te de
+LYS,le ye se
+MB,me be
+MGK,me ge ka
+MHAT,me he a te
+MK,meka
+MKB,mekabe
+MKE,mekae
+MKYK,mekayeka
+MPİ,me pe i
+MPM,me pe me
+MR,mistır
+MSB,me se be
+MTA,me te a
+MYK,me ye ka
+NVİGM,ne ve i ge me
+OECD,o e ce de
+OEEC,o e e ce
+OGM,o ge me
+OIC,o ı ce
+OIEC,o ı e ce
+OPEC,opec
+OSB,o se be
+ÖİB,ö i be
+ÖRGM,ö re ge me
+ÖSGM,ö se ge me
+ÖSS,ö se se
+ÖSYM,ö se ye me
+ÖTV,ö te ve
+ÖYK,ö ye ka
+ÖYS,ö ye se
+PİGM,pe i ge me
+PK,pe ka
+PO,pe o
+PTT,pe te te
+RAM,rem
+RK,re ka
+RNA,re ne a
+RTÜK,rütük
+SB,sebe
+SBF,sebefe
+SBS,sebese
+SG,sege
+SGK,segeka
+SGM,segeme
+SHÇEK,se he çe e ka
+SHGM,se he ge me
+SHÖ,se he ö
+SKT,sekate
+SOS,es o es
+SPK,se pe ka
+SSCB,se se ce be
+SSDB,se se de be
+SSK,se se ka
+SSM,se se me
+STB,se te be
+STK,se te ka
+STÖ,se te ö
+SWIFT,sivift
+SYDGM,se ye de ge me
+T.C.,te ce
+TAA,te a a 
+TAI,ta i
+TAPDK,te a pe de ke
+TASS,te a se se
+TAŞ,taş
+TBB,te be be
+TBMM,te be me me
+TCDD,te ce de de
+TCK,te ce ka
+TCMB,te ce me be
+TCZB,te ce ze be
+TDÇİ,te de çe i
+TDİ,te de i
+TDK,te de ka
+TEAE,te e a e
+TFF,te fe fe
+TGC,te ge ce
+TGM,te ge me
+TGS,te ge se
+THA,te he a
+THK,te he ka
+THS,te he se
+THSGM,te he se ge me
+THY,te he ye
+TIR,te ı re
+TK,te ka
+TKAE,te ka a e
+TKB,te ka be
+TKF,te ka fe
+TKGM,te ka ge me
+TKİ,te ka i
+TL,tele
+TMMOB,te me me o be
+TMO,te me o
+TMSF,te me se fe
+TMSK,te me se ka
+TODAİE,te o de a i e
+TOEFL,te o e fe le
+TP,tepe
+TPAO,te pe a o
+TPE,te pe e
+TR,te re
+TRGM,te re ge me
+TRKGM,te re ka ge me
+TRT,te re te
+TSE,te se e
+TSİ,te se i
+TSK,te se ka
+TSKB,te se ka be
+TTB,te te be
+TTK,te te ka
+TTKB,te te ka be
+TTOK,te te o ka
+TV,ti vi
+TYDTA,te ye de te a
+TZDK,te ze de ka
+TZOB,te ze o be
+UAAF,u a a fe
+UAD,u a de
+UAEA,u a e a
+UAGF,u a ge fe
+UAT,u a te
+UBB,u be be
+UBF,u be fe
+UDÖ,u de ö
+UE,u e
+UEA,u e a
+UEFA,u e fa
+UFF,u fe fe
+UFK,u fe ka
+UFO,ufo
+UHF,u he fe
+UHİK,u he i ka
+UKA,uka
+UMT,u me te
+UNAC,u ne a ce
+UNESCO,unesko
+UNICEF,unisef
+UOK,u o ka
+UÖB,u ö be
+UPB,u pe be
+UPF,u pe fe
+USF,u se fe
+USHÖ,u se he ö
+USÖ,u se ö
+UTKF,u te ke fe
+UTM,u te me
+UTO,u te o
+UYB,u ye be
+ÜDS,ü de se
+VCD,ve ce de
+VDMK,ve de me ka
+VGM,ve ge me
+VIP,vip
+WCO,dabulu ce o
+WFC,dabulu fe ce
+WHO,hu
+YDK,ye de ka
+YDS,ye de se
+YEÖGM,ye e ö ge me
+YİBF,ye i be fe
+YİGM,ye i ge me
+YKr,yeni kuruş
+YÖGM,ye ö ge me
+YSE,ye se e
+YSK,ye se ka
+YTL,ye te le
+ZMO,ze me o
+Aion,A i on
+BMW,be me ve
+Cadillac,kadillak
+Caterham,Katerham
+Chery,Çeri
+Chevrolet,Şevrolet
+Chrysler,kırayslır
+Citroen,Sitroen
+Dacia,Daçya
+Daewoo,Day vu
+Daihatsu,dayhatsu
+dodge,doç
+DS Automobiles,De se a u to mobayıls
+Eagle,igıl
+Ferrari,Fer ra ri
+Ford,Fort
+Geely,Ci ili
+Hyundai,Hunday
+Kia,Ki a
+Lamborghini,Lamborcini
+Lancia,Lan ci a
+Leapmotor,Lepmotor
+Lexus,Leksus
+Lincoln,Linkoln
+Marcos,Markos
+McLaren,Emsi Laren
+Mercedes,Mersedes
+MG,Em ci
+Mitsubishi,Mitsubişi
+Moskwitsch,Moskviçh
+Peugeot,Pejo
+Plymouth,Pılymoft
+Pontiac,Pon ti ac
+Porsche,Porşe
+Renault,Renolt
+Rolls-Royce,Rols roys
+Rolls Royce,Rols roys
+Saab,Sa ab
+Saturn,Satürn
+Seat,Se at
+Smart,Sımart
+Volswagen,volksvagen
+Apt.,apartman
+Atk,A te ka
+Alb.,Albay
+Atğm.,Asteğmen
+Bçvş.,Başçavuş
+ğ,Yumuşak ge
+Doç.,Doçent
+İng.,İngilizce
+Korg.,Korgeneral
+Asb., Astsubay
+Atm., Atmosfer
+Av.,Avukat
+BM,Birleşmiş Milletler
+Bşk., Başkan
+Cad.,Cadde
+CD, Si Di
+Dk,Dakika
+Ecz.,Eczacı
+Fak.,Fakülte
+hek.,hekim
+&,ve
+black,b lek
+sok.,sokak
+tuğg,tuğgeneral
+vb.,ve benzeri
+vs.,vesaire
+yy.,yüzyıl
