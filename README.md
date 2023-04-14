@@ -64,7 +64,7 @@ N.b.  When performing Mel-Spectrogram to Audio synthesis, make sure Tacotron 2
 and the Mel decoder were trained on the same mel-spectrogram representation. 
 
 
-## Tacotron2 and HiFi-GAN Inference Notebook (now with super-resolution!)
+## Tacotron2 and HiFi-GAN Inference Notebook
 Tacotron2 and HiFi-GAN Inference [Notebook](https://colab.research.google.com/drive/1dxVcqe4m-AU8NAA1I1MW1N9HYBO_oii_?usp=sharing)
 
 
