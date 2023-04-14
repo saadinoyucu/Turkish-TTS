@@ -62,7 +62,7 @@ and the Mel decoder were trained on the same mel-spectrogram representation.
 
 
 ## Acknowledgements
-This implementation uses code from the following repos: [Nvidia] (https://github.com/NVIDIA/tacotron2),
+This implementation uses code from the following repos: [Nvidia](https://github.com/NVIDIA/tacotron2),
 [Keith Ito](https://github.com/keithito/tacotron/), 
 [Prem Seetharaman](https://github.com/pseeth/pytorch-stft) as described in our code.
 
