@@ -7,6 +7,8 @@ Turkish Speech Synthesis Project based on Tacotron2
 Turkish implementation code of [A Novel End-to-End Turkish Text-to-Speech (TTS) System via Deep Learning]
 (MDPI, electronics). 
 
+https://www.mdpi.com/2079-9292/12/8/1900
+
 This implementation includes **distributed** and **automatic mixed precision** support
 and uses the [Turkish TTS dataset](https://drive.google.com/file/d/1YMwTLczUs9bs-0Ukg3zlxoMrnteveiiM/view).
 
