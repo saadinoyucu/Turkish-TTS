@@ -19,6 +19,7 @@ Turkish TTS implementation data of [Preparing A Balanced Corpus for Development 
 https://dergipark.org.tr/en/pub/gazibtd/issue/79101/1159289
 
 Cite
+
 Cücen, M. S. , Oyucu, S. & Polat, H. (2023). Türkçe Konuşma Sentezleme Sistemlerinin Geliştirilmesi için Dengeli Bir Veri Kümesi Hazırlama . Bilişim Teknolojileri Dergisi , 16 (3) , 237-249 . DOI: 10.17671/gazibtd.1159289
 
 
