@@ -9,6 +9,20 @@ Turkish implementation code of [A Novel End-to-End Turkish Text-to-Speech (TTS) 
 
 https://www.mdpi.com/2079-9292/12/8/1900
 
+Cite
+
+Oyucu, S. A Novel End-to-End Turkish Text-to-Speech (TTS) System via Deep Learning. Electronics 2023, 12, 1900. https://doi.org/10.3390/electronics12081900
+
+
+Turkish TTS implementation data of [Preparing A Balanced Corpus for Development of Turkish Speech Synthesis Systems]
+
+https://dergipark.org.tr/en/pub/gazibtd/issue/79101/1159289
+
+Cite
+Cücen, M. S. , Oyucu, S. & Polat, H. (2023). Türkçe Konuşma Sentezleme Sistemlerinin Geliştirilmesi için Dengeli Bir Veri Kümesi Hazırlama . Bilişim Teknolojileri Dergisi , 16 (3) , 237-249 . DOI: 10.17671/gazibtd.1159289
+
+
+
 This implementation includes **distributed** and **automatic mixed precision** support
 and uses the [Turkish TTS dataset](https://drive.google.com/file/d/1YMwTLczUs9bs-0Ukg3zlxoMrnteveiiM/view).
 
